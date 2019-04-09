@@ -1,0 +1,6 @@
+//hello World program demo
+public class Demo{
+public static void main(String[] args){
+system.out.println("hello World");
+}
+}
